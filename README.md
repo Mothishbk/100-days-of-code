@@ -1,5 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
-
+# [Linkedin](https://www.linkedin.com/in/sanjay-kapilesh-32728018a/)
+### You can raise issues in my repositories or DM incase of any support needed or let's connect and have a friendly chat
 ## Contents
 
 * [Rules](rules.md)
