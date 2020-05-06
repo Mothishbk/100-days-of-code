@@ -1,6 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
-# [Linkedin](https://www.linkedin.com/in/sanjay-kapilesh-32728018a/)
+# [Linkedin](https://www.linkedin.com/in/sanjay-kapilesh-32728018a/) 
 ### You can raise issues in my repositories or DM incase of any support needed or let's connect and have a friendly chat
+## Work Links
+### [Machine Learning Basics](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
+### [ReactJS](https://github.com/Coding-Maniac/Reactjs)
 ## Contents
 
 * [Rules](rules.md)
